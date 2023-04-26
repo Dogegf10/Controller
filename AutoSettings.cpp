@@ -16,3 +16,6 @@ void AutoSettings::setAutoTimes(int upHour, int upMinute, int downHour, int down
   _downHour =  (downHour <= 23 || downHour >= 0 ? downHour : 0);   // Sætter time for hvornår automatisering skal slå fra
   _downMinute = (downMinute <= 59 || downMinute >= 0 ? downMinute : 0);   // Sætter minut for hvornår automatisering skal slå fra
 }
+//adsdaksdkas
+//adsaakdskda
+
